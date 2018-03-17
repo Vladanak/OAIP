@@ -1,0 +1,13 @@
+﻿  laba14.2.cpp
+  laba14.cpp
+laba14.cpp(55): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+laba14.cpp(59): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+laba14.cpp(68): warning C4244: *=: преобразование "float" в "int", возможна потеря данных
+laba14.cpp(72): warning C4244: +=: преобразование "float" в "int", возможна потеря данных
+  Создание кода
+  2 of 14 functions (14.3%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  All Projects.vcxproj -> D:\Учёба\Работы\All Projects\Release\All Projects.exe
+  All Projects.vcxproj -> D:\Учёба\Работы\All Projects\Release\All Projects.pdb (Full PDB)

@@ -1,0 +1,5 @@
+﻿  HelloWorld.cpp
+c:\users\пользователь\documents\visual studio 2015\projects\контр 2\лаб.раб. 1\helloworld.cpp(132): warning C4715: pop: значение возвращается не при всех путях выполнения
+c:\users\пользователь\documents\visual studio 2015\projects\контр 2\лаб.раб. 1\helloworld.cpp(99): warning C4715: rek: значение возвращается не при всех путях выполнения
+  Лаб.раб. 1.vcxproj -> C:\Users\Пользователь\Documents\Visual Studio 2015\Projects\КОНТР 2\Debug\Лаб.раб. 1.exe
+  Лаб.раб. 1.vcxproj -> C:\Users\Пользователь\Documents\Visual Studio 2015\Projects\КОНТР 2\Debug\Лаб.раб. 1.pdb (Full PDB)

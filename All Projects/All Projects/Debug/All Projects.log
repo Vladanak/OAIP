@@ -1,0 +1,7 @@
+﻿  Калькулятор.cpp
+d:\учёба\работы\all projects\all projects\калькулятор.cpp(112): warning C4244: аргумент: преобразование "long double" в "int", возможна потеря данных
+d:\учёба\работы\all projects\all projects\калькулятор.cpp(116): warning C4244: аргумент: преобразование "long double" в "int", возможна потеря данных
+d:\учёба\работы\all projects\all projects\калькулятор.cpp(6): warning C4101: c: неиспользованная локальная переменная
+d:\учёба\работы\all projects\all projects\калькулятор.cpp(6): warning C4101: h: неиспользованная локальная переменная
+  All Projects.vcxproj -> D:\Учёба\Работы\All Projects\Debug\All Projects.exe
+  All Projects.vcxproj -> D:\Учёба\Работы\All Projects\Debug\All Projects.pdb (Full PDB)

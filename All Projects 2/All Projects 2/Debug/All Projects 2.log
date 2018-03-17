@@ -1,0 +1,10 @@
+﻿  Лаба9.cpp
+c:\users\пользователь\documents\visual studio 2015\projects\all projects 2\all projects 2\header.h(2): warning C4005: _CRT_SECURE_NO_WARNINGS: изменение макроопределения
+  c:\users\пользователь\documents\visual studio 2015\projects\all projects 2\all projects 2\header.h(2): note: аргументы командной строки:  см. предыдущее определение "_CRT_SECURE_NO_WARNINGS"
+  Лаб6.cpp
+c:\users\пользователь\documents\visual studio 2015\projects\all projects 2\all projects 2\header.h(2): warning C4005: _CRT_SECURE_NO_WARNINGS: изменение макроопределения
+  c:\users\пользователь\documents\visual studio 2015\projects\all projects 2\all projects 2\header.h(2): note: аргументы командной строки:  см. предыдущее определение "_CRT_SECURE_NO_WARNINGS"
+  Создание кода...
+c:\users\пользователь\documents\visual studio 2015\projects\all projects 2\all projects 2\лаб6.cpp(316): warning C4715: DeleteDouble: значение возвращается не при всех путях выполнения
+  All Projects 2.vcxproj -> C:\Users\Пользователь\documents\visual studio 2015\Projects\All Projects 2\Debug\All Projects 2.exe
+  All Projects 2.vcxproj -> C:\Users\Пользователь\documents\visual studio 2015\Projects\All Projects 2\Debug\All Projects 2.pdb (Full PDB)
